@@ -232,4 +232,4 @@ CompAPI is a simple Vue 3 app that displays a list of posts. It uses Vue Router,
 This project is licensed under the MIT License.
 ```
 sample image
-<img width="1440" height="900" alt="sample" src="https://github.com/user-attachments/assets/2e2af435-ba09-402f-af89-738ec65d0ad9" />
+![alt text](sample.png)
